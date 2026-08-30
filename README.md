@@ -12,6 +12,6 @@ An automated, standalone hardware solution based on the **Seeed Studio XIAO ESP3
 ## Hardware Components
 
 * **MCU:** Seeed Studio XIAO ESP32-S3
-* **Power Management:** TPS61230 5V Boost Converter (controlled via GPIO Pin `D10`)
+* **Power Management:** TPS61230 5V Boost Converter
 * **Reverse Polarity Protection:** DMG2305UX P-MOSFET
 * **Storage:** MicroSD Slot (Push-Push with Card Detect) & USB-A Host Socket
